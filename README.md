@@ -18,6 +18,8 @@ pip install scrotrem
 python3
 ```
 
+In the Python shell now open in the terminal, import scrotrem.
+
 ```python
 import scrotrem
 ```
